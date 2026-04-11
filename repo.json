@@ -30,7 +30,7 @@
     "Punchline": "FFLogs-powered average rotation timelines for every fight and job.",
     "Description": "Displays aggregated skill timelines from top FFLogs parses. Shows what the average top player does at any given moment in a fight, with a live overlay that tracks your current encounter.",
     "InternalName": "ATKTip",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.0.1",
     "TestingAssemblyVersion": "1.0.0.0",
     "IsHide": false,
     "IsTestingExclusive": false,
