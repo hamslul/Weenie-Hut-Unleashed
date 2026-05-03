@@ -32,6 +32,7 @@
   "Description": "Aggregated top 100 FFLogs with custom timelines.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/hamslul/ATKTip",
+  "DownloadLinkInstall": "https://github.com/hamslul/BGMSync/releases/download/v1.0.3/BGMSync.zip",
   "Tags": [
     "combat",
     "timeline",
