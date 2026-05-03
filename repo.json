@@ -24,22 +24,34 @@
     "IconUrl": "",
     "ImageUrls": []
   },
-  {
-    "Author": "hamslul",
-    "Name": "ATKTip",
-    "Punchline": "FFLogs-powered average rotation timelines for every fight and job.",
-    "Description": "Top 100 aggregated FFLogs parses with custom timelines and overlays",
-    "InternalName": "ATKTip",
-    "AssemblyVersion": "1.1.0.0",
-    "TestingAssemblyVersion": "1.1.0.0",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/hamslul/ATKTip",
-    "Tags": ["combat", "timeline", "fflogs", "rotation", "overlay", "raid"],
-    "CategoryTags": ["combat", "utility"],
-    "DalamudApiLevel": 15,
-    "DownloadLinkInstall": "https://github.com/hamslul/ATKTip/releases/download/v1.1.0/ATKTip.zip",
-    "DownloadLinkUpdate": "https://github.com/hamslul/ATKTip/releases/download/v1.1.0/ATKTip.zip",
-    "DownloadLinkTesting": "https://github.com/hamslul/ATKTip/releases/download/v1.1.0/ATKTip.zip",
-    "IconUrl": "",
-  },
+{
+  "Author": "hamslul",
+  "Name": "ATKTip",
+  "InternalName": "ATKTip",
+  "AssemblyVersion": "1.1.0.0",
+  "Description": "Displays aggregated skill timelines from top FFLogs parses. Shows what the average top player does at any given moment in a fight, with a live overlay that tracks your current encounter.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/hamslul/ATKTip",
+  "Tags": [
+    "combat",
+    "timeline",
+    "fflogs",
+    "rotation",
+    "overlay",
+    "raid"
+  ],
+  "CategoryTags": [
+    "combat",
+    "utility"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": true,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "",
+  "Punchline": "FFLogs-powered average rotation timelines for every fight and job.",
+  "AcceptsFeedback": true
+}
 ]
