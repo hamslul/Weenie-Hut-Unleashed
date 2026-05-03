@@ -29,7 +29,7 @@
   "Name": "ATKTip",
   "InternalName": "ATKTip",
   "AssemblyVersion": "1.1.0.0",
-  "Description": "Displays aggregated skill timelines from top FFLogs parses. Shows what the average top player does at any given moment in a fight, with a live overlay that tracks your current encounter.",
+  "Description": "Aggregated top 100 FFLogs with custom timelines.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/hamslul/ATKTip",
   "Tags": [
@@ -51,7 +51,7 @@
   "LoadPriority": 0,
   "ImageUrls": [],
   "IconUrl": "",
-  "Punchline": "FFLogs-powered average rotation timelines for every fight and job.",
+  "Punchline": "FFLogs-powered rotation timelines for every fight and job.",
   "AcceptsFeedback": true
 }
 ]
