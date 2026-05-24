@@ -33,7 +33,6 @@
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/hamslul/ATKTip",
   "DownloadLinkInstall": "https://github.com/hamslul/ATKTip/releases/download/v1.1.2/ATKTip.zip",
-  "DownloadLinkTesting": "https://github.com/hamslul/ATKTipDebug/releases/download/r/release.zip",
   "Tags": [
     "combat",
     "timeline",
@@ -54,6 +53,37 @@
   "ImageUrls": [],
   "IconUrl": "",
   "Punchline": "FFLogs-powered rotation timelines for every fight and job.",
+  "AcceptsFeedback": true
+}
+  {
+  "Author": "hamslul",
+  "Name": "ATKTipDebug",
+  "InternalName": "ATKTipDebug",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "Debug type shi",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/hamslul/ATKTipDebug",
+  "DownloadLinkInstall": "https://github.com/hamslul/ATKTipDebug/releases/download/r/release.zip",
+  "Tags": [
+    "combat",
+    "timeline",
+    "fflogs",
+    "rotation",
+    "overlay",
+    "raid"
+  ],
+  "CategoryTags": [
+    "combat",
+    "utility"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": true,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "IconUrl": "",
+  "Punchline": "Debug type shi",
   "AcceptsFeedback": true
 }
 ]
