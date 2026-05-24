@@ -33,8 +33,8 @@
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/hamslul/ATKTip",
     "DownloadLinkInstall": "https://github.com/hamslul/ATKTip/releases/download/v1.1.2/ATKTip.zip",
-    "Tags": ["combat", "timeline", "fflogs", "rotation", "overlay", "raid"]
-    "CategoryTags": [ "combat", "utility"]
+    "Tags": ["combat", "timeline", "fflogs", "rotation", "overlay", "raid"],
+    "CategoryTags": [ "combat", "utility"],
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,
@@ -54,8 +54,8 @@
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/hamslul/ATKTipDebug",
     "DownloadLinkInstall": "https://github.com/hamslul/ATKTipDebug/releases/download/r/release.zip",
-    "Tags": ["combat", "timeline", "fflogs", "rotation", "overlay", "raid"]
-    "CategoryTags": ["combat", "utility"]
+    "Tags": ["combat", "timeline", "fflogs", "rotation", "overlay", "raid"],
+    "CategoryTags": ["combat", "utility"],
     "DalamudApiLevel": 15,
     "LoadRequiredState": 0,
     "LoadSync": false,
