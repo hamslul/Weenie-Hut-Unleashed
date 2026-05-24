@@ -33,6 +33,7 @@
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/hamslul/ATKTip",
   "DownloadLinkInstall": "https://github.com/hamslul/ATKTip/releases/download/v1.1.2/ATKTip.zip",
+  "DownloadLinkTesting": "https://github.com/hamslul/ATKTipDebug/releases/download/r/release.zip",
   "Tags": [
     "combat",
     "timeline",
